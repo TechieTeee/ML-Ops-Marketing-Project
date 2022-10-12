@@ -5,4 +5,4 @@
 
 ML Ops Data Experiment Marketing Modalities and Impact on Sales
 
-Dummy Marketing and Sales Data to Explore the Impact on Marketing Modalities on Sales and Scalable MLOps Infrastructure
+Dummy Marketing and Sales Data to Explore the Impact on Marketing Modalities on Sales and Scalable MLOps Infrastructure with Python and MLFlow
